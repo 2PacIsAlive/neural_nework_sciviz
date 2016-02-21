@@ -6,6 +6,9 @@ __pycache__/
 # galaxy images
 *.jpg
 
+# zip files 
+*.zip
+
 # C extensions
 *.so
 
